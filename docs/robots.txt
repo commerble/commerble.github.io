@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://commerble.github.io/ecspec/sitemap.xml
